@@ -1,0 +1,12 @@
+C:\Users\Andy Hua\Desktop\RPG\RPG.DAL\bin\Debug\net6.0\RPG.DAL.deps.json
+C:\Users\Andy Hua\Desktop\RPG\RPG.DAL\bin\Debug\net6.0\RPG.DAL.dll
+C:\Users\Andy Hua\Desktop\RPG\RPG.DAL\bin\Debug\net6.0\RPG.DAL.pdb
+C:\Users\Andy Hua\Desktop\RPG\RPG.DAL\obj\Debug\net6.0\RPG.DAL.csproj.AssemblyReference.cache
+C:\Users\Andy Hua\Desktop\RPG\RPG.DAL\obj\Debug\net6.0\RPG.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy Hua\Desktop\RPG\RPG.DAL\obj\Debug\net6.0\RPG.DAL.AssemblyInfoInputs.cache
+C:\Users\Andy Hua\Desktop\RPG\RPG.DAL\obj\Debug\net6.0\RPG.DAL.AssemblyInfo.cs
+C:\Users\Andy Hua\Desktop\RPG\RPG.DAL\obj\Debug\net6.0\RPG.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Andy Hua\Desktop\RPG\RPG.DAL\obj\Debug\net6.0\RPG.DAL.dll
+C:\Users\Andy Hua\Desktop\RPG\RPG.DAL\obj\Debug\net6.0\refint\RPG.DAL.dll
+C:\Users\Andy Hua\Desktop\RPG\RPG.DAL\obj\Debug\net6.0\RPG.DAL.pdb
+C:\Users\Andy Hua\Desktop\RPG\RPG.DAL\obj\Debug\net6.0\ref\RPG.DAL.dll

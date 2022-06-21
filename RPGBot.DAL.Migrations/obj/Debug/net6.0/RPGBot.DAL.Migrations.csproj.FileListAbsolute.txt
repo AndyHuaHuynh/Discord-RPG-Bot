@@ -1,0 +1,15 @@
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.DAL.Migrations\bin\Debug\net6.0\RPGBot.DAL.Migrations.deps.json
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.DAL.Migrations\bin\Debug\net6.0\RPGBot.DAL.Migrations.dll
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.DAL.Migrations\bin\Debug\net6.0\RPGBot.DAL.Migrations.pdb
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.DAL.Migrations\obj\Debug\net6.0\RPGBot.DAL.Migrations.csproj.AssemblyReference.cache
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.DAL.Migrations\obj\Debug\net6.0\RPGBot.DAL.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.DAL.Migrations\obj\Debug\net6.0\RPGBot.DAL.Migrations.AssemblyInfoInputs.cache
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.DAL.Migrations\obj\Debug\net6.0\RPGBot.DAL.Migrations.AssemblyInfo.cs
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.DAL.Migrations\obj\Debug\net6.0\RPGBot.DAL.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.DAL.Migrations\obj\Debug\net6.0\RPGBot.DAL.Migrations.dll
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.DAL.Migrations\obj\Debug\net6.0\refint\RPGBot.DAL.Migrations.dll
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.DAL.Migrations\obj\Debug\net6.0\RPGBot.DAL.Migrations.pdb
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.DAL.Migrations\obj\Debug\net6.0\ref\RPGBot.DAL.Migrations.dll
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.DAL.Migrations\bin\Debug\net6.0\RPG.DAL.dll
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.DAL.Migrations\bin\Debug\net6.0\RPG.DAL.pdb
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.DAL.Migrations\obj\Debug\net6.0\RPGBot.DAL.Migrations.csproj.CopyComplete

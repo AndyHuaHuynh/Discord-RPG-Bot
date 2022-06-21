@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPG", "RPG\RPG.csproj", "{40DA7F81-1A22-4200-83F5-82866E0EF8AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RPGBot.DAl", "RPGBot.DAl", "{0E89B454-3DDA-49BB-BEEC-D99E239DC462}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPG.DAL", "RPG.DAL\RPG.DAL.csproj", "{28513BA1-C5C6-46FB-AB4A-6FF6F23C12D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RPG.Bots", "RPG.Bots", "{B3664634-98D0-4D6E-8119-0070215C4A92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPGBot.DAL.Migrations", "RPGBot.DAL.Migrations\RPGBot.DAL.Migrations.csproj", "{DD84C957-68D8-42B3-B6EC-DA1240248C9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RPGBot.Core", "RPGBot.Core", "{C72F7C2E-74EA-44A8-9DD0-ED87AB108DBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGBot.Core", "RPGBot.Core\RPGBot.Core.csproj", "{3A9E5707-3D16-48C0-910B-ABF89A3038FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40DA7F81-1A22-4200-83F5-82866E0EF8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40DA7F81-1A22-4200-83F5-82866E0EF8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40DA7F81-1A22-4200-83F5-82866E0EF8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40DA7F81-1A22-4200-83F5-82866E0EF8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28513BA1-C5C6-46FB-AB4A-6FF6F23C12D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28513BA1-C5C6-46FB-AB4A-6FF6F23C12D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28513BA1-C5C6-46FB-AB4A-6FF6F23C12D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28513BA1-C5C6-46FB-AB4A-6FF6F23C12D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD84C957-68D8-42B3-B6EC-DA1240248C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD84C957-68D8-42B3-B6EC-DA1240248C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD84C957-68D8-42B3-B6EC-DA1240248C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD84C957-68D8-42B3-B6EC-DA1240248C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A9E5707-3D16-48C0-910B-ABF89A3038FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9E5707-3D16-48C0-910B-ABF89A3038FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9E5707-3D16-48C0-910B-ABF89A3038FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9E5707-3D16-48C0-910B-ABF89A3038FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{40DA7F81-1A22-4200-83F5-82866E0EF8AD} = {B3664634-98D0-4D6E-8119-0070215C4A92}
+		{28513BA1-C5C6-46FB-AB4A-6FF6F23C12D4} = {0E89B454-3DDA-49BB-BEEC-D99E239DC462}
+		{DD84C957-68D8-42B3-B6EC-DA1240248C9C} = {0E89B454-3DDA-49BB-BEEC-D99E239DC462}
+		{3A9E5707-3D16-48C0-910B-ABF89A3038FB} = {C72F7C2E-74EA-44A8-9DD0-ED87AB108DBF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2242D7AF-76D4-47A2-81FA-A934B2B4B414}
+	EndGlobalSection
+EndGlobal

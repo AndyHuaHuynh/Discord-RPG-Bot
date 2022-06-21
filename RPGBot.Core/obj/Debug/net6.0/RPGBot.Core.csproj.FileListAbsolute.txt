@@ -1,0 +1,15 @@
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.Core\bin\Debug\net6.0\RPGBot.Core.deps.json
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.Core\bin\Debug\net6.0\RPGBot.Core.dll
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.Core\bin\Debug\net6.0\RPGBot.Core.pdb
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.Core\bin\Debug\net6.0\RPG.DAL.dll
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.Core\bin\Debug\net6.0\RPG.DAL.pdb
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.Core\obj\Debug\net6.0\RPGBot.Core.csproj.AssemblyReference.cache
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.Core\obj\Debug\net6.0\RPGBot.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.Core\obj\Debug\net6.0\RPGBot.Core.AssemblyInfoInputs.cache
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.Core\obj\Debug\net6.0\RPGBot.Core.AssemblyInfo.cs
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.Core\obj\Debug\net6.0\RPGBot.Core.csproj.CoreCompileInputs.cache
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.Core\obj\Debug\net6.0\RPGBot.Core.csproj.CopyComplete
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.Core\obj\Debug\net6.0\RPGBot.Core.dll
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.Core\obj\Debug\net6.0\refint\RPGBot.Core.dll
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.Core\obj\Debug\net6.0\RPGBot.Core.pdb
+C:\Users\Andy Hua\Desktop\RPG\RPGBot.Core\obj\Debug\net6.0\ref\RPGBot.Core.dll
